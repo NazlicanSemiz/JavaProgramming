@@ -1,5 +1,6 @@
 package day38_Inheritance.carTask;
 
+
 public class Tesla extends Car {
 
 
@@ -10,6 +11,7 @@ public class Tesla extends Car {
     public void autoPilot(){
         System.out.println(brand+ " " + model + " in autopilot mode ");
     }
+
 }
 
 /*

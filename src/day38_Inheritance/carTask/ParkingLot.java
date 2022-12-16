@@ -8,5 +8,13 @@ public class ParkingLot {
         Tesla tesla= new Tesla("Tesla", "X model",2022,100000,"Red",10000);
 
         BMW bmw = new BMW("BMW","x5",2022,5000,"White",54665435);
+
+
+
+        toyota.start();
+        tesla.start();
+        bmw.start();
+
+
     }
 }
